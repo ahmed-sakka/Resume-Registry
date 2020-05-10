@@ -2,7 +2,7 @@
 Simple PHP CRUD application for resume registry
 
 ## Getting started
-1. Add **resmue.sql** to your database as *'resmue'*
+1. Add **resume.sql** to your database as *'resume'*
 2. Configure **pdo.php**
 3. Launch application in your server
 
@@ -13,4 +13,4 @@ Password: **php123**
 
 * Add resmue:
 
-![Adding resume](1.jpg)
+![Adding resume](add-resume.jpg)
