@@ -7,10 +7,10 @@ Simple PHP CRUD application for resume registry
 3. Launch application in your server
 
 ## Features
-⋅⋅* Login to resume registry application:
+* Login to resume registry application:
 Email: **resume@registry.com**
 Password: **php123**
 
-⋅⋅* Add resmue:
+* Add resmue:
 
 ![Adding resume](1.jpg)
